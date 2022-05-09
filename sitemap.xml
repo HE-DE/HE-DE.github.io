@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://he-de.github.io/2022/05/10/%E4%BD%9C%E4%B8%9A2_201900130012_%E5%86%AF%E6%99%BA%E6%B4%8B_%E6%95%B0%E6%8D%AE/</loc>
+    
+    <lastmod>2022-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://he-de.github.io/2022/03/10/%E4%BD%9C%E4%B8%9A1_201900130012_%E5%86%AF%E6%99%BA%E6%B4%8B_%E6%95%B0%E6%8D%AE/</loc>
+    
+    <lastmod>2022-05-09</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://he-de.github.io/2022/05/08/hello-world/</loc>
     
     <lastmod>2022-05-08</lastmod>
@@ -18,6 +36,20 @@
     <priority>1.0</priority>
   </url>
 
+  
+  <url>
+    <loc>https://he-de.github.io/tags/%E4%BD%9C%E4%B8%9A%E4%B8%80/</loc>
+    <lastmod>2022-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://he-de.github.io/tags/%E4%BD%9C%E4%B8%9A%E4%BA%8C/</loc>
+    <lastmod>2022-05-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
   
 
   

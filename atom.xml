@@ -6,7 +6,7 @@
   <link href="https://he-de.github.io/atom.xml" rel="self"/>
   
   <link href="https://he-de.github.io/"/>
-  <updated>2022-05-08T15:48:33.286Z</updated>
+  <updated>2022-05-09T12:08:32.257Z</updated>
   <id>https://he-de.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>作业二</title>
+    <link href="https://he-de.github.io/2022/05/10/%E4%BD%9C%E4%B8%9A2_201900130012_%E5%86%AF%E6%99%BA%E6%B4%8B_%E6%95%B0%E6%8D%AE/"/>
+    <id>https://he-de.github.io/2022/05/10/%E4%BD%9C%E4%B8%9A2_201900130012_%E5%86%AF%E6%99%BA%E6%B4%8B_%E6%95%B0%E6%8D%AE/</id>
+    <published>2022-05-10T14:17:14.000Z</published>
+    <updated>2022-05-09T12:08:32.257Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="作业二"><a href="#作业二" class="headerlink" title="作业二"></a>作业二</h1><h3 id="列举威胁作用者有哪些，并简要说明"><a href="#列举威胁作用者有哪些，并简要说明" class="headerlink" title="列举威胁作用者有哪些，并简要说明"></a>列举威胁作用者有哪些，并简要说明</h3><p>匿名攻击者、恶意服务作用者，授信的攻击者、恶意的内部人员；</p><ol><li><strong>匿名攻击者</strong>是不被信任的威胁作用者，通常试图从云边界的外部进行攻击</li><li><strong>恶意服务作用者</strong>截取网络通信，试图恶意地使用或篡改数据。</li><li><strong>授信的攻击者</strong>是经过授权的云服务用户，具有合法的证书，他们会使用这些证书来访问基于云的IT资源。</li><li><strong>恶意的内部</strong>人员是试图滥用对云资源范围的访问特权的人。</li></ol><h3 id="列举云安全威胁有哪些，并简要说明"><a href="#列举云安全威胁有哪些，并简要说明" class="headerlink" title="列举云安全威胁有哪些，并简要说明"></a>列举云安全威胁有哪些，并简要说明</h3><ol><li><p>流量窃听</p></li><li><p>恶意媒介</p></li><li><p>拒绝服务</p></li><li><p>授权不足</p></li><li><p>虚拟化攻击</p></li><li><p>信任边界重叠</p></li><li><p><strong>流量窃听</strong>和<strong>恶意媒介攻击</strong>通常是由截取网络流量的恶意服务作用者实施的；</p></li><li><p><strong>拒绝服务攻击</strong>的发生是当目标IT资源由于请求过多而负载过重，这些请求意在使IT资源性能陷入瘫痪或不可用；</p></li><li><p><strong>授权不足攻击</strong>是指错误的授予了攻击者访问权限或是授权太宽泛，或是使用了弱密码；</p></li><li><p><strong>虚拟化攻击</strong>利用的是虚拟化环境的漏洞，获得了对底层物理硬件未被授权的访问；</p></li><li><p><strong>重叠的信任边界</strong>潜藏了一种威胁，攻击者可以利用多个云用户共享的、基于云的IT资源。</p></li></ol>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;作业二&quot;&gt;&lt;a href=&quot;#作业二&quot; class=&quot;headerlink&quot; title=&quot;作业二&quot;&gt;&lt;/a&gt;作业二&lt;/h1&gt;&lt;h3 id=&quot;列举威胁作用者有哪些，并简要说明&quot;&gt;&lt;a href=&quot;#列举威胁作用者有哪些，并简要说明&quot; class=&quot;headerli</summary>
+      
+    
+    
+    
+    
+    <category term="作业二" scheme="https://he-de.github.io/tags/%E4%BD%9C%E4%B8%9A%E4%BA%8C/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -33,6 +55,28 @@
     
     
     
+    
+  </entry>
+  
+  <entry>
+    <title>作业一</title>
+    <link href="https://he-de.github.io/2022/03/10/%E4%BD%9C%E4%B8%9A1_201900130012_%E5%86%AF%E6%99%BA%E6%B4%8B_%E6%95%B0%E6%8D%AE/"/>
+    <id>https://he-de.github.io/2022/03/10/%E4%BD%9C%E4%B8%9A1_201900130012_%E5%86%AF%E6%99%BA%E6%B4%8B_%E6%95%B0%E6%8D%AE/</id>
+    <published>2022-03-10T14:17:14.000Z</published>
+    <updated>2022-05-09T12:07:55.267Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="作业一"><a href="#作业一" class="headerlink" title="作业一"></a>作业一</h1><h3 id="云使能技术包括哪些技术组件，用一句话说明其关键特征"><a href="#云使能技术包括哪些技术组件，用一句话说明其关键特征" class="headerlink" title="云使能技术包括哪些技术组件，用一句话说明其关键特征"></a>云使能技术包括哪些技术组件，用一句话说明其关键特征</h3><ul><li><p>数据中心技术：一种特殊的IT基础设施，用于集中放置IT资源；</p></li><li><p>虚拟化技术：是将物理IT资源转换为虚拟IT资源的过程，虚拟服务器使用自己的客户操作系统，独立于创建虚拟服务器的操作系统，在虚拟服务器上运行的客户操作系统和应用软件，都不会感知到虚拟化的过程；</p></li><li><p>Web技术：WWW是由通过Internet访问的互联IT资源构成的系统，其两个基本组件是Web浏览器客户端和Web服务器；</p></li><li><p>多租户技术：使用隔离，数据安全，可恢复性，应用升级，可扩展性，使用计费，数据层隔离；</p></li><li><p>服务技术：基于Web的服务(如Web服务和REST服务)依靠非专有通信和技术接口定义来建立基于Web技术的标准通信框架，服务代理提供事件驱动运行时处理，适用于云中大量的功能。许多代理都自动部署在操作系统和基于云的产品中，服务中间件(如ESB和业务流程平台)可以在云上部署。</p></li></ul><p><strong>关键特征</strong></p><p>所有的云必须连接到网络，同时利用数据中心技术集中存放IT资源，应用虚拟化技术将物理IT资源转换为虚拟IT资源，从而提供了硬件无关性、服务器整合、资源复制、对资源更强的支持和可扩展性；使用Web技术作为云服务的实现介值和管理接口；设计多租户技术使多个用户在逻辑上同时访问一个应用；其中的服务技术是云计算的基石，形成了“作为服务”的云交付模型的基础</p><h3 id="列举三种虚拟化软件，一句话概括其特点"><a href="#列举三种虚拟化软件，一句话概括其特点" class="headerlink" title="列举三种虚拟化软件，一句话概括其特点"></a>列举三种虚拟化软件，一句话概括其特点</h3><ul><li>Docker：容器虚拟化，在宿主机上虚拟一个单独环境给软件使用，而不是虚拟一个新系统，使用更加方便，但是模拟不如虚拟机真实。</li><li>VMware ESXi：VMware 提供的裸机虚拟化系统，不需要宿主系统，可直接运行多个虚拟机。</li><li>VMware Workstation：VMware 提供的个人虚拟化软件，需要在宿主操作系统上运行软件，再于软件上运行虚拟机。</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;作业一&quot;&gt;&lt;a href=&quot;#作业一&quot; class=&quot;headerlink&quot; title=&quot;作业一&quot;&gt;&lt;/a&gt;作业一&lt;/h1&gt;&lt;h3 id=&quot;云使能技术包括哪些技术组件，用一句话说明其关键特征&quot;&gt;&lt;a href=&quot;#云使能技术包括哪些技术组件，用一句话说明其关键特</summary>
+      
+    
+    
+    
+    
+    <category term="作业一" scheme="https://he-de.github.io/tags/%E4%BD%9C%E4%B8%9A%E4%B8%80/"/>
     
   </entry>
   
